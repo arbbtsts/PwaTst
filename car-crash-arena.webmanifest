@@ -1,0 +1,14 @@
+{
+  "name": "CAR CRASH ARENA",
+  "short_name": "Crash Arena",
+  "description": "CAR CRASH ARENA — jogo 3D de colisões e destruição.",
+  "start_url": "./CAR_CRASH_ARENA_PWA.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#07070b",
+  "theme_color": "#150d22",
+  "icons": [
+    {"src":"./car-crash-arena-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
